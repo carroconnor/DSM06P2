@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/carroconnor/Downloads/DataStructures/M06-Assign-2-Starter-main",
+      "program": "/Users/carroconnor/Downloads/DataStructures/M06-Assign-2-Starter-main/build/Debug/outDebug"
+    }
+  ]
+}
